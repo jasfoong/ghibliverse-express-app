@@ -22,8 +22,12 @@ router.get("/:id", (req, res) => {
   const singleCharacter = character.find(
     (character) => character.id === req.params.id
   );
-  res.json(singleCharacter);
+  if (!singleCharacter) {
+    res.status(404).send("No Face not found; 顔なしが見つかりません");
+  } else {
+    res.json(singleCharacter);
+  }
 });
 
 //Export router for use in index.js
-module.exports = router; 
+module.exports = router;
