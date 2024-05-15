@@ -6,8 +6,8 @@
     "movie": "Spirited Away",
     "species": "Human-Dragon Hybrid",
     "description": "Yubaba's henchman in dragon form, he has a teal and mint green mane, with a white, scaled body.",
-    "extended-description": "He can sometimes be kind-hearted and supportive, other times strict and high-strung. He is wise and is able to act accordingly to the situation. He is more than willing to stick his neck out when he cares about someone. From the beginning of the story, through to the end, he does everything within his power to keep Chihiro unharmed and to help her leave safely. His steadfast resolve helps Chihiro finally trust him.",
-    "special powers": "spell casting, telekinesis, cloaking, flight, force-field imprisonment"
+    "extendedDescription": "He can sometimes be kind-hearted and supportive, other times strict and high-strung. He is wise and is able to act accordingly to the situation. He is more than willing to stick his neck out when he cares about someone. From the beginning of the story, through to the end, he does everything within his power to keep Chihiro unharmed and to help her leave safely. His steadfast resolve helps Chihiro finally trust him.",
+    "powers": "spell casting, telekinesis, cloaking, flight, force-field imprisonment"
   },
   {
     "id": "2",
@@ -16,8 +16,8 @@
     "movie": "Princess Mononoke",
     "species": "Kami, Deer",
     "description": "The protector of the Cedar Forest and the god of life and death.",
-    "extended-description": "The Forest Spirit (Shishigami), a being of potent life force, possesses a touch that transcends the mortal realm. Its very essence heals all earthly ailments and curses. Where it treads, flora bursts into vibrant bloom, a fleeting testament to its power, before returning to the earth. It silently cultivates the forest, its touch both nurturing and impermanent. Even a passing encounter grants solace and eases suffering.",
-    "special powers": "immortality, invulnerability, walking on water, powers of reincarnation"
+    "extendedDescription": "The Forest Spirit (Shishigami), a being of potent life force, possesses a touch that transcends the mortal realm. Its very essence heals all earthly ailments and curses. Where it treads, flora bursts into vibrant bloom, a fleeting testament to its power, before returning to the earth. It silently cultivates the forest, its touch both nurturing and impermanent. Even a passing encounter grants solace and eases suffering.",
+    "powers": "immortality, invulnerability, walking on water, powers of reincarnation"
   },
   {
     "id": "3",
@@ -26,8 +26,8 @@
     "movie": "My Neighbor Totoro",
     "species": "Forest Spirit",
     "description": "Totoro is a giant, cuddly creature with soft gray fur, a big belly, and floppy ears. He has a friendly and childlike demeanor.",
-    "extended-description": "He's a silent guardian spirit whose presence is deeply woven into the fabric of the forest. He can be seen napping beneath the shade of ancient trees, seemingly one with the earth itself. As he roams the woods, the very air seems to hum with a subtle magic. When he's happy and playful, the wind whispers through the leaves.",
-    "special powers": "invisibility, flight, summoning the catbus, harmony with nature"
+    "extendedDescription": "He's a silent guardian spirit whose presence is deeply woven into the fabric of the forest. He can be seen napping beneath the shade of ancient trees, seemingly one with the earth itself. As he roams the woods, the very air seems to hum with a subtle magic. When he's happy and playful, the wind whispers through the leaves.",
+    "powers": "invisibility, flight, summoning the catbus, harmony with nature"
   },
   {
     "id": "4",
@@ -36,8 +36,8 @@
     "movie": "Kiki's Delivery Service",
     "species": "Cat",
     "description": "Jiji is Kiki's loyal black cat familiar.",
-    "extended-description": "Jiji possesses the remarkable ability to speak, initially acting as a sassy yet insightful companion for Kiki. He offers blunt advice and witty commentary, keeping Kiki grounded as she navigates the challenges of her new life as a young witch. Jiji's a furry barometer of Kiki's moods, offering a comforting presence during moments of self-doubt.",
-    "special powers": "speech, sensitivity, sass, extended lifespan"
+    "extendedDescription": "Jiji possesses the remarkable ability to speak, initially acting as a sassy yet insightful companion for Kiki. He offers blunt advice and witty commentary, keeping Kiki grounded as she navigates the challenges of her new life as a young witch. Jiji's a furry barometer of Kiki's moods, offering a comforting presence during moments of self-doubt.",
+    "powers": "speech, sensitivity, sass, extended lifespan"
   },
   {
     "id": "5",
@@ -46,8 +46,8 @@
     "movie": "Spirited Away",
     "species": "Yōkai",
     "description": "A mysterious spirit with no face who devours others to mimic their form and emotions",
-    "extended-description": "No-Face lacks a physical form, appearing as a tall, black silhouette with a blank white mask. This spirit has deep loneliness and insatiable hunger for connection. No-face devours anything he comes across, from food to entire individuals. By consuming others, he gains not just sustenance but also their personality and abilities, briefly mimicking their form and voice. No-Face's search for connection, even through such bizarre means, speaks to a yearning for identity and belonging.",
-    "special powers": "shape-shifting, offering unwanted gifts, manipulation, generally being adorable"
+    "extendedDescription": "No-Face lacks a physical form, appearing as a tall, black silhouette with a blank white mask. This spirit has deep loneliness and insatiable hunger for connection. No-face devours anything he comes across, from food to entire individuals. By consuming others, he gains not just sustenance but also their personality and abilities, briefly mimicking their form and voice. No-Face's search for connection, even through such bizarre means, speaks to a yearning for identity and belonging.",
+    "powers": "shape-shifting, offering unwanted gifts, manipulation, generally being adorable"
   },
   {
     "id": "6",
@@ -56,7 +56,7 @@
     "movie": "Howl's Moving Castle",
     "species": "Fire Spirit",
     "description": "A fire spirit with a sardonic wit, is bound to the hearth of Howl's magical castle",
-    "extended-description": "Appearing grumpy and quick with a barbed remark, but he possesses a surprising amount of wit and wisdom. He provides not just heat but also a source of magic for the castle's movement. Calcifer's strength is directly tied to Howl's well-being. If Howl falters, so too does the fire spirit's power, and the castle itself loses its mobility.  Calcifer plays a pivotal role, offering cryptic advice to Sophie and acting as a catalyst for change within the castle. His yearning for freedom is a recurring theme, and his eventual choice to remain in the castle, bound but not entirely controlled, speaks to a complex and fascinating character.",
-    "special powers": "fire-manipulation, combustion, sarcasm"
+    "extendedDescription": "Appearing grumpy and quick with a barbed remark, but he possesses a surprising amount of wit and wisdom. He provides not just heat but also a source of magic for the castle's movement. Calcifer's strength is directly tied to Howl's well-being. If Howl falters, so too does the fire spirit's power, and the castle itself loses its mobility.  Calcifer plays a pivotal role, offering cryptic advice to Sophie and acting as a catalyst for change within the castle. His yearning for freedom is a recurring theme, and his eventual choice to remain in the castle, bound but not entirely controlled, speaks to a complex and fascinating character.",
+    "powers": "fire-manipulation, combustion, sarcasm"
   }
 ]
